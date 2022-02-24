@@ -1,3 +1,3 @@
 - Eae programador, tranquilo?
-- Aqqui eu guardo em nuvem alguns projetos já terminados sem erros e fáceis para edição.
+- Aqui eu guardo em nuvem alguns projetos já terminados sem erros e fáceis para edição.
 - Iniciei meus projetos voltados a programação de site mas atualmente estou estudando Java... Aguardem que vem mais projeto por ai!
